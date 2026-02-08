@@ -24,7 +24,7 @@ pip install requests
 
 ### 4. Clone repo
 
-git clone https://github.com/YOURNAME/kairox-proxy-scraper
+git clone https://github.com/alexbusk51-ux/kairox-proxy-scraper.git
 
 cd kairox-proxy-scraper
 
